@@ -69,7 +69,7 @@ public class StudyList {
 //        set.add(38);
 //        set.add(5);
 //
-//        Iterator it = set.iterator();
+//        ConditionAndIterator it = set.iterator();
 //
 //        while(it.hasNext())
 //            System.out.println(it.next());

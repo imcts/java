@@ -2,76 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="600752eb-30d5-46d4-9855-cc71176e5947" name="Default" comment="change commit&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/daehacro/ExceptionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jsmine/variable/Casting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jsmine/variable/Condition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jsmine/variable/Iterable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jsmine/variable/Variable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mains/MainMethodArguments.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/ExtendsStudy$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/ExtendsStudy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/InterThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/LineNumberOne.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/LineNumberTwo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/Protoss.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/ProtossTribe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/StarCraft.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/Student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/StudentRanking.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/StudyList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/Subway.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/Terran.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/TerranTribe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/TestLimit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/TestThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/ThreadTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/ThreadTest$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/ThreadTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/TryCatch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/TryTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/Zerg.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/daehacro/ZergTribe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/CatFamily.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/CommonStaticMethod.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/DolenStringUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/Extends.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/Human.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/InterfaceInnerVariable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/Java7Interface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/Java8Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/MalgnTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/PersonTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/Relection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/Result.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/StreamStudy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/TestClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/interfaceInnerVariableMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/lambdaMain$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/lambdaMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/methodReference$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/methodReference.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/java/com/company/java8/java/java8/mains/myFunction.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/java8/java/daehacro/ExtendsStudy.java" afterPath="$PROJECT_DIR$/src/daehacro/ExtendsStudy.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/java8/java/daehacro/Person.java" afterPath="$PROJECT_DIR$/src/daehacro/Person.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/java8/java/daehacro/StudentRanking.java" afterPath="$PROJECT_DIR$/src/daehacro/StudentRanking.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/java8/java/daehacro/StudyList.java" afterPath="$PROJECT_DIR$/src/daehacro/StudyList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/java8/java/daehacro/TestLimit.java" afterPath="$PROJECT_DIR$/src/daehacro/TestLimit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/java8/java/daehacro/ThreadTest.java" afterPath="$PROJECT_DIR$/src/daehacro/ThreadTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/java8/java/daehacro/TryCatch.java" afterPath="$PROJECT_DIR$/src/daehacro/TryCatch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/java8/java/java8/mains/Java8Test.java" afterPath="$PROJECT_DIR$/src/mains/Java8Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/java8/java/java8/mains/MalgnTest.java" afterPath="$PROJECT_DIR$/src/mains/MalgnTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/java8/java/java8/mains/Relection.java" afterPath="$PROJECT_DIR$/src/mains/Relection.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/java8/java/java8/mains/StreamStudy.java" afterPath="$PROJECT_DIR$/src/mains/StreamStudy.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/java8/java/java8/mains/interfaceInnerVariableMain.java" afterPath="$PROJECT_DIR$/src/mains/interfaceInnerVariableMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/java8/java/java8/mains/lambdaMain.java" afterPath="$PROJECT_DIR$/src/mains/lambdaMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/java8/java/java8/mains/methodReference.java" afterPath="$PROJECT_DIR$/src/mains/methodReference.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/daehacro/StudyList.java" afterPath="$PROJECT_DIR$/src/daehacro/StudyList.java" />
     </list>
     <ignored path="java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Casting.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/jsmine/variable/Casting.java">
+      <file leaf-file-name="ConditionAndIterator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/jsmine/task/dolen/week02/ConditionAndIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5861071">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.53979737">
+              <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -136,9 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/ExceptionClass.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ModernJavaImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/java8/CalculatorExample.java" />
         <option value="$PROJECT_DIR$/src/com/company/java8/Operator.java" />
         <option value="$PROJECT_DIR$/src/com/company/java8/Calculator.java" />
@@ -179,12 +108,17 @@
         <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/mains/MainMethodArguments.java" />
         <option value="$PROJECT_DIR$/src/daehacro/ExceptionTest.java" />
-        <option value="$PROJECT_DIR$/src/jsmine/variable/Casting.java" />
         <option value="$PROJECT_DIR$/src/jsmine/variable/Condition.java" />
         <option value="$PROJECT_DIR$/src/jsmine/variable/Iterable.java" />
         <option value="$PROJECT_DIR$/src/mains/Java8Test.java" />
         <option value="$PROJECT_DIR$/src/mains/interfaceInnerVariableMain.java" />
         <option value="$PROJECT_DIR$/src/jsmine/variable/Variable.java" />
+        <option value="$PROJECT_DIR$/src/jsmine/variable/Casting.java" />
+        <option value="$PROJECT_DIR$/src/jsmine/task/week01/Variable.java" />
+        <option value="$PROJECT_DIR$/src/jsmine/task/week02/ConditionAndIterator.java" />
+        <option value="$PROJECT_DIR$/src/jsmine/task/dolen/week01/Variable.java" />
+        <option value="$PROJECT_DIR$/src/jsmine/task/dolen/week01/Operator.java" />
+        <option value="$PROJECT_DIR$/src/jsmine/task/dolen/week02/ConditionAndIterator.java" />
       </list>
     </option>
   </component>
@@ -367,7 +301,89 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="variable" />
+              <option name="myItemId" value="jsmine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsmine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsmine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dolen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsmine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dolen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -418,27 +434,7 @@
       <recent name="$PROJECT_DIR$/src/lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Iterable">
-    <configuration default="false" name="MainMethodArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="mains.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="mains.MainMethodArguments" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ConditionAndIterator">
     <configuration default="false" name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -447,26 +443,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="jsmine.variable.Variable" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="daehacro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="daehacro.ExceptionTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -507,6 +483,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="jsmine.variable.Iterable" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jsmine.task.dolen.week01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jsmine.task.dolen.week01.Operator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ConditionAndIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jsmine.task.dolen.week02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jsmine.task.dolen.week02.ConditionAndIterator" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -932,19 +948,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MainMethodArguments" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Variable" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ExceptionTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Casting" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Iterable" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Variable" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Casting" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Iterable" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Operator" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ConditionAndIterator" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Iterable" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Casting" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Variable" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ExceptionTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MainMethodArguments" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ConditionAndIterator" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Operator" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Iterable" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Casting" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Variable" />
       </list>
     </recent_temporary>
   </component>
@@ -1056,7 +1072,7 @@
       <workItem from="1489721254060" duration="610000" />
       <workItem from="1489996109701" duration="151000" />
       <workItem from="1489996632734" duration="125000" />
-      <workItem from="1490439547930" duration="81000" />
+      <workItem from="1490439547930" duration="8914000" />
     </task>
     <task id="LOCAL-00001" summary="change commit&#10;">
       <created>1482937627563</created>
@@ -1068,7 +1084,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205614000" />
+    <option name="totallyTimeSpent" value="214447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="988" extended-state="6" />
@@ -1076,29 +1092,29 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3236607" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18467583" sideWeight="0.50479233" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907662" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22544643" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19754465" sideWeight="0.49520767" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22204472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25981525" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25981525" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32448035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22569832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1152,27 +1168,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/lib/packager.jar!/jdk/packager/services/userjvmoptions/LauncherUserJvmOptions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0960335">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/ThreadGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5395257">
-          <caret line="968" column="29" selection-start-line="968" selection-start-column="29" selection-end-line="968" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0858283">
-          <caret line="140" column="12" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5728543">
@@ -1492,8 +1487,8 @@
         <state vertical-scroll-proportion="1.7899761">
           <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
           <folding>
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="false" />
+            <element signature="e#342#343#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1515,8 +1510,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jsmine/variable/Casting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5861071">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6078148">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsmine/task/dolen/week01/Variable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsmine/task/dolen/week01/Operator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33783785">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsmine/task/dolen/week02/ConditionAndIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53979737">
+          <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
           <folding />
         </state>
       </provider>
