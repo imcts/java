@@ -1,46 +1,31 @@
 package jsmine.object;
 
-/**
- * Created by imcts on 2017. 3. 26..
- */
-
-class Person {
-    String name;
-    int age;
-    String sex;
-
-    @Override
-    public String toString() {
-        return "Person{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                ", sex='" + sex + '\'' +
-                '}';
-    }
+class Snack {
+    static String staticValriable; //1. 인스턴스화 된 객체에서 사용할 수 없습니다.
+    String wheatFlour;
+    String water;
+    String egg;
 }
 
 public class Object {
     public static void main(String [] args) {
-        //OOP Object Oriented Programing
+        Snack chitos = new Snack();
+
+        chitos.wheatFlour = "흑표 곰밀가루";
+        chitos.water = "삼다수";
+        chitos.egg = "세븐일레븐 구운계란";
+
+        chitos.staticValriable = "333";
+
+        System.out.println(chitos.wheatFlour + " : " + chitos.water + " : " + chitos.egg + " : " + Snack.staticValriable);
 
 
-        Person ej = new Person();
+        Snack homerunBall = new Snack();
 
-        Person ts = new Person();
+        homerunBall.wheatFlour = "홈런볼 밀가루!!";
+        homerunBall.water = "삼다수";
+        homerunBall.egg = "청정란";
 
-        Person jh = new Person();
-
-        Person yr = new Person();
-
-        Person jn = new Person();
-
-        int a;
-
-        System.out.println(ts.toString());
-
-
-        java.lang.Object o = new String();
-
-        //function | method
+        System.out.println(homerunBall.wheatFlour + " : " + homerunBall.water + " : " + homerunBall.egg + " : " + Snack.staticValriable);
     }
 }
