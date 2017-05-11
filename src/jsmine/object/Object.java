@@ -1,31 +1,66 @@
 package jsmine.object;
 
-class Snack {
-    static String staticValriable; //1. 인스턴스화 된 객체에서 사용할 수 없습니다.
-    String wheatFlour;
-    String water;
-    String egg;
+class Optional {
+    public static final String VERSION = "1.0.0";
+}
+
+class Initialize {
+    public static String INITIAL_STATE;
+
+    static {
+        System.out.println("나는 언제 실행될까??");
+
+        if(Optional.VERSION.equals("1.0.0")) {
+            INITIAL_STATE = "1.0.0";
+        } else {
+            INITIAL_STATE = null;
+        }
+    }
+
+    public String a = "initial";
+    {
+        //do something
+
+        a = "이렇게도 초기화가 가능합니다.";
+
+        //do something
+
+        System.out.println("inner setting");
+    }
+
+    public Initialize() {
+
+        //do something
+
+        System.out.println("constructor");
+    }
+
+    public Initialize(String a) {
+        this.a = a;
+    }
 }
 
 public class Object {
+    public static String a;
+
+    public void test() {}
+
     public static void main(String [] args) {
-        Snack chitos = new Snack();
 
-        chitos.wheatFlour = "흑표 곰밀가루";
-        chitos.water = "삼다수";
-        chitos.egg = "세븐일레븐 구운계란";
+        Initialize init = new Initialize();
 
-        chitos.staticValriable = "333";
-
-        System.out.println(chitos.wheatFlour + " : " + chitos.water + " : " + chitos.egg + " : " + Snack.staticValriable);
+        System.out.println(init.a);
 
 
-        Snack homerunBall = new Snack();
+        Snack chitos = new Snack("흑표 곰밀가루", "삼다수", "세븐일레븐 구운계란");
+        Snack homerunBall = new Snack("홈런볼 밀가루!!", "삼다수", "청정란", "홈런볼초코");
 
-        homerunBall.wheatFlour = "홈런볼 밀가루!!";
-        homerunBall.water = "삼다수";
-        homerunBall.egg = "청정란";
+        Snack.print(chitos);
+        Snack.print(homerunBall);
 
-        System.out.println(homerunBall.wheatFlour + " : " + homerunBall.water + " : " + homerunBall.egg + " : " + Snack.staticValriable);
+        System.out.println(homerunBall.getWheatFlour() + " : 최종본");
+
+
+
     }
 }
