@@ -8,12 +8,12 @@ import lombok.experimental.Accessors;
  */
 
 interface Java7Interface {
-    public void method();
+    void method();
 }
 
 interface InterfaceInnerVariable {
     int AGE2 = 28; //인터페이스에서 변수는 기본적으로 public static final이다.
-    public static final int AGE = 30; //즉 이렇게 선언하는 것이 위와 동일하다.
+    int AGE = 30; //즉 이렇게 선언하는 것이 위와 동일하다.
 
     void getName(); //자바8 이전 버전에서는 추상메서드만 지원하였다. 인터페이스 내부에 메서드의 본문을 구현할 수 없었다.
 

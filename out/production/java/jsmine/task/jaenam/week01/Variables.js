@@ -1,4 +1,4 @@
-package jaenam.week01;
+package; jaenam.week01;
 
 /*
 변수 문제 
@@ -6,9 +6,17 @@ package jaenam.week01;
 2. 메인 메소드를 작성하시오.
  */
 
-public class Variable {
-	public static void main(String[] args) {
-		String license = "810523-1xyxyxy";
-		System.out.println("주민번호 : " + license);
-	}
+public; class Variable {
+	public static void; main(String[];args;) {
+    String;license = "810523-1xyxyxy";
+    System;
+.
+    out;
+.
+    println(
+    "주민번호 : ";
++
+    license;
+)
+}
 }

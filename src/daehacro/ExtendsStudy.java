@@ -71,24 +71,24 @@ class A {
 
 interface StarCraft {
 
-    public void move();
-    public void attack();
-    public void money();
-    public void gas();
-    public void fly();
+    void move();
+    void attack();
+    void money();
+    void gas();
+    void fly();
 
 }
 
 interface Zerg {
-    public void crip();
+    void crip();
 }
 
 interface Terran {
-    public void flyBuilding();
+    void flyBuilding();
 }
 
 interface Protoss {
-    public void strong();
+    void strong();
 }
 
 

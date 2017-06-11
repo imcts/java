@@ -105,7 +105,7 @@ public class StreamStudy {
                 Stream.of(str.toCharArray()).map(s -> s.toString()).reduce((a, b) -> new StringBuilder().append(b).append(a).toString())
         );
 
-        List<String> l = Arrays.asList(new String [] {"1", "2"});
+        List<String> l = Arrays.asList("1", "2");
 
         System.out.println(StringUtils.join(l, ","));
     }

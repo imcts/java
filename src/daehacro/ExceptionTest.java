@@ -54,7 +54,7 @@ public class ExceptionTest {
 
         try (
                 ExceptionA a = new ExceptionA();
-                ExceptionA b = new ExceptionA();
+                ExceptionA b = new ExceptionA()
         ) {
 
             use(a);

@@ -86,7 +86,7 @@ public class Relection {
         System.out.println();
 
 
-        List<String> strList = Arrays.asList(new String [] {"a", "b", "c"});
+        List<String> strList = Arrays.asList("a", "b", "c");
 
         List<String> strList2 = strList.stream().map(s -> s + "1").collect(Collectors.toList());
 

@@ -8,7 +8,7 @@ import java.util.Comparator;
 
 @FunctionalInterface
 interface myFunction<T> {
-    public T excute(T a, T b);
+    T excute(T a, T b);
 }
 
 class TestClass {

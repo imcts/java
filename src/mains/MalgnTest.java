@@ -74,7 +74,7 @@ class TreeNode<T> {
 
         stack.push(treeNode.getNode().getText());
 
-        treeNode.getChildren().forEach(tree -> treeNode.getAllNode(tree, stack));
+        treeNode.getChildren().forEach(tree -> getAllNode(tree, stack));
 
         return stack;
     }
@@ -84,7 +84,7 @@ class TreeNode<T> {
         if(treeNode.getChildren().isEmpty())
             stack.push(treeNode.getNode().getText());
 
-        treeNode.getChildren().forEach(tree -> treeNode.getLastNode(tree, stack));
+        treeNode.getChildren().forEach(tree -> getLastNode(tree, stack));
 
         return stack;
     }
@@ -123,7 +123,7 @@ class CatFamily {
             if(catFamily.getId() == 1)
                 tree.setNode(catFamily);
             else
-                tree.addChild(tree, catFamily);
+                TreeNode.addChild(tree, catFamily);
         });
 
         return tree;
@@ -144,7 +144,7 @@ class CatFamily {
         if(!questionTwoList.isEmpty())
             questionTwoList.remove(0);
 
-        System.out.println(StringUtils.join(questionTwoList, ", "));;
+        System.out.println(StringUtils.join(questionTwoList, ", "));
     }
 
     public static void questionThree(TreeNode<CatFamily> treeNode) {
